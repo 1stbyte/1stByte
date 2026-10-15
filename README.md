@@ -28,7 +28,7 @@ education:
     "Cuyahoga Community College",
     "Associate in Information Tachnology Aug 2014 - May 2016",
   ]
-company: Park Place Technologies
+company: Fortune 500 Company
 
 fields_of_interests:
   [
@@ -50,7 +50,7 @@ technical_background:
   
 currently_learning: ["Python, Bash, Powershell, Detection as Code (DaC), Linux, Kubernetes, Splunk, Yara,"]
 2026 Goals: ["Create Projects and learn at least 5-10 new Cybersecurity Tools."]
-hobbies: ["Gaming", "3D printing", "Building PC's", "Reading", "Hackthebox", "Tryhackme"]
+hobbies: ["Gaming", "3D printing", "Building PC's", "Cyber projects", "Hackthebox", "Tryhackme"]
 ```
 
 <h3 align="center">🛠 Security & Detection Tools</h3>
